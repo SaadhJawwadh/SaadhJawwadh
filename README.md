@@ -1,4 +1,4 @@
-### Hi there 👋 This is Saadh Jawwadh Computer science undergraduate at the Informatics Institute of Technology. 
+Hi there 👋 This is Saadh Jawwadh Computer science undergraduate at the Informatics Institute of Technology. 
 ### I believe curiosity is one of the important characteristics that induce me to learn new things and I am always willing to learn new things.
 ### 🌱 I’m currently learning some new technologies.
 
