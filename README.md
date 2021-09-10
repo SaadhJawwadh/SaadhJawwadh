@@ -8,7 +8,7 @@ I believe curiosity is one of the important characteristics that induce me to le
 
 #### Technologies:
 
-[![Facebook](http://resources.spacexchimp.com/images/logos/Facebook.png)]()
+[![Facebook](https://www.freeiconspng.com/thumbs/facebook-logo-png/photos-facebook-logo-png-transparent-background-13.png)]()
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
-[![WordPress](http://resources.spacexchimp.com/images/logos/WordPress.png)](https://wordpress.org)
+[![WordPress](http://resources.spacexchimp.com/images/logos/WordPress.png)]
