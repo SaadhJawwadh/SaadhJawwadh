@@ -6,9 +6,11 @@ I believe curiosity is one of the important characteristics that induce me to le
 - 📚 Open to learn
 - 📫 Reach me out at: https://appdatesaadh.wordpress.com/link-tree/
 
-#### Technologies:
+#### Social Media:
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-[![Facebook](https://www.freeiconspng.com/thumbs/facebook-logo-png/photos-facebook-logo-png-transparent-background-13.png)]()
-[![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
-[![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
-[![WordPress](http://resources.spacexchimp.com/images/logos/WordPress.png)]
+[1]: https://twitter.com/saadhjawwadh
+[2]: http://www.facebook.com/sednaoui
+[3]: https://github.com/SaadhJawwadh
