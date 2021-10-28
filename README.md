@@ -3,6 +3,6 @@ I believe curiosity is one of the important characteristics that induce me to le
 I am always willing to learn new things.
 
 
-- 🧐 Looking for internship
+- 🧐 Curious 
 - 📚 Open to learn
 - 📫 Reach me out at: [Link Tree](https://appdatesaadh.wordpress.com/link-tree/)
