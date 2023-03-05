@@ -5,4 +5,4 @@ I am always willing to learn new things.
 
 - 🧐 Curious 
 - 📚 Open to learn
-- 📫 Reach me out at: [Link Tree](https://appdatesaadh.wordpress.com/link-tree/)
+- 📫 Reach me out at: [Appdate.lk](https://www.appdate.lk/)
