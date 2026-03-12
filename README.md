@@ -1,39 +1,50 @@
-# 👋 Hello, I'm Saadh Jawwadh 
+# 👋 Hello, I'm Saadh Jawwadh 🇱🇰
 
 > "I believe curiosity is one of the important characteristics that induce me to learn new things and I am always willing to learn new things."
 
 ### 🧐 About Me
-- **Curious:** Always digging into the 'why' behind the code.
-- **Lifelong Learner:** Constantly exploring new frameworks and methodologies.
-- **Tech Enthusiast:** Focused on building impactful solutions.
+- **Lecturer** at IIT (Informatics Institute of Technology).
+- **Curious:** Driven by the 'why' and 'how' of complex systems.
+- **Tech Stack Enthusiast:** Passionate about Android, macOS, AI, and Cybersecurity.
+- **Open Source Advocate:** I prioritize free, open-source tools in my workflow.
 
 ---
 
-### 🚀 Interactive Stats
+### 📊 Interactive Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Saadh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadhJawwadh&show_icons=true&theme=tokyonight&count_private=true" alt="Saadh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadhJawwadh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadhJawwadh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+### 🧪 Current Projects & Research
+- 🛡️ **DDoS Threat Detection:** Developing a detection system using **Reinforcement Learning**.
+- 📝 **Next-Gen Notes:** Building a custom note-taking application designed for efficiency.
+- 📸 **Mobile Photography:** Exploring the capabilities of mobile sensors and computational photography.
 
 ---
 
-### 📬 Let's Connect
-I'm always open to discussing new projects or interesting tech.
+### 🛠 Tech Stack & Tools
+| Category | Tech & Tools |
+| :--- | :--- |
+| **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Hardware** | ![MacBook](https://img.shields.io/badge/M4_Mac_Air-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/S26_Ultra-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
+---
+
+### 📫 Reach Me Out
 - 🌐 **Website:** [Appdate.lk](https://www.appdate.lk/)
-- 📧 **Reach out via:** [My Website Contact Form](https://www.appdate.lk/contact)
+- 🐦 **X (Twitter):** [AppdateLK](https://x.com/AppdateLK)
+- 📝 **Contact:** [Get in touch](https://www.appdate.lk/contact)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Keep%20Learning&fontSize=30" />
 </p>
