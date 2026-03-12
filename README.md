@@ -54,12 +54,6 @@
 
 ---
 
-### 🧪 Ongoing Work
-- **DDoS Mitigation:** Training RL agents to identify and neutralize network threats.
-- **Productivity Systems:** Building a custom note-taking application focused on speed and simplicity.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" alt="Blue decorative footer" />
 </p>
