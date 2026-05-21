@@ -6,7 +6,7 @@
 
 ---
 
-# 🌌 SAADH JAWWADH
+# SAADH JAWWADH
 <p align="center">
   <strong>Lecturer & Researcher | Computer Science, AI & Cybersecurity</strong>
 </p>
@@ -21,6 +21,11 @@
 </p>
 
 ---
+
+<!-- Fixed, High-Availability Tech Wavy Banner Section -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=⚡%20MISSION:%20BRIDGING%20THE%20GAP&fontSize=26&fontAlignY=40&theme=dark" width="100%" />
+
+</div>
 
 ## 🎓 Bridging Academia & Industry
 
