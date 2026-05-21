@@ -21,10 +21,6 @@
 </p>
 
 ---
-<!-- Wavy Tech Banner -->
-<img src="https://capsule-render.vercel.app/type=waving&color=00FFCC&height=120&section=header&text=⚡%20MISSION:%20BRIDGING%20THE%20GAP&fontSize=26&fontAlignY=40&theme=dark" width="100%" />
-
-</div>
 
 ## 🎓 Bridging Academia & Industry
 
