@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://saadhjawwadh.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" /></a>
   <a href="https://orcid.org/0009-0007-5485-6719" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.appdate.lk/" target="_blank"><img src="https://img.shields.io/badge/APPDATE.LK-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="AppDate" /></a>
+  <a href="https://www.saadhjawwadh.com/" target="_blank"><img src="https://img.shields.io/badge/APPDATE.LK-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Saadh Jawwadh" /></a>
 </p>
 
 ---
